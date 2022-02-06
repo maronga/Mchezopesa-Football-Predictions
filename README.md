@@ -1,5 +1,5 @@
 # Mchezopesa-Football-Predictions
-#Overview
+# Overview
 Create a model to predict the result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly or not.
 
 The two possible approaches (as shown below) have been used to make predictions given the below inputs
